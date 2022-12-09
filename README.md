@@ -37,4 +37,4 @@ ___
 |[![Matrix_Library_C++](https://img.shields.io/badge/Matrix_Library_C++-000000?style=for-the-badge&logo=Matrix_Library_C++&logoColor=F46D01)](https://github.com/AjzSAhmetzyanov/Matrix_C-)   |  Implementation of the calculation of arbitrary bracket arithmetic expressions in infix notation and a GUI based on a GUI library with API for C++17: Qt. | 	[![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=F46D01)]() [![Qt](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=F46D01)]() [![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=mvs&logoColor=F46D01)]() [![GTest](https://img.shields.io/badge/GTest-000000?style=for-the-badge&logo=mvs&logoColor=F46D01)]() [![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=makefile&logoColor=F46D01)]() |
 ___
 
-![Snake animation](https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov/edit/main/.github/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov/tree/main/.github)
