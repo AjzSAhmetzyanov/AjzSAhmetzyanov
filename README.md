@@ -1,6 +1,6 @@
 # Hi there, I'm Ayzat Akhmetzyanov
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F46800.svg&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-[![]](https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov/blob/main/.github/профиль_сбер.png)
+[!(https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov/blob/main/.github/профиль_сбер.png)]
 ___
 <div align="center">
 <a href="https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov">
