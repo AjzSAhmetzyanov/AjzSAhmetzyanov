@@ -2,8 +2,8 @@ ___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F46800.svg&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 ___
 - 👋 Hi there, I'm Ayzat Akhmetzyanov
-- 👀 I’m study in School 21, nickname Luigiket;
-- 👀 I'm interested in backend and fronted developing;
+- 👀I graduated from the university (I have a diploma, now I continue my studies at the magistracy), at the same time I study at the programming school - 21 School        (Sberbank) I write in C / C ++ programming languages.
+- 👀 I'm interested in backend and fronted developing.
 - 📫 How to reach me: You can send me a message in telegram.
 ___
 <div align="center">
