@@ -15,6 +15,7 @@ ___
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AjzSAhmetzyanov&show_icons=true&theme=codeSTACKr"
 </a>
 </div>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ___
 ### Contact:
