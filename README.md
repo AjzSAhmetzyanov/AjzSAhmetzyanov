@@ -6,14 +6,6 @@ ___
 - 👀 I'm interested in backend and fronted developing.
 - 📫 How to reach me: You can send me a message in telegram.
 ___
-<div align="center">
-<a href="https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjzSAhmetzyanov&theme=codeSTACKr&hide_langs_below=1" />
-</a>
-<a href="https://github.com/AjzSAhmetzyanov/AjzSAhmetzyanov">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AjzSAhmetzyanov&show_icons=true&theme=codeSTACKr"
-</a>
-</div>
 
 ___
 ### Contact:
