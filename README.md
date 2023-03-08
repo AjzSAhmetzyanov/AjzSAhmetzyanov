@@ -23,6 +23,10 @@ ___
  
 ___
 ### Skills:
+[![Python](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=F46D01)]()
+[![Pandas](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=F46D01)]()
+[![Jupyter](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=F46D01)]()
+[![Scikit-learn](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=F46D01)]()
 [![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=F46D01)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=F46D01)]()
 [![Sql](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=F46D01)]()
@@ -36,7 +40,6 @@ ___
 ### Project List:
 |    Name           | Description      | Tools        |
 |    ---            |      ---         |  ---         |
-
 | [![Data_Science](https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logo=Data_Science++&logoColor=F46D01)](https://github.com/AjzSAhmetzyanov/Bootcamp_Data_Science) | Implementation of Data Science projects|[![Python](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=F46D01)]() [![Pandas](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=F46D01)]() [![Scikit-learn](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=F46D01)]() |
 | [![Containers_STL](https://img.shields.io/badge/Containers_STL-000000?style=for-the-badge&logo=Containers_STL_C++&logoColor=F46D01)](https://github.com/AjzSAhmetzyanov/STL_C-_Implementition) | Implementation of the Standart Template Library and a GUI based on a GUI library with API for C++17: Qt.|[![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=F46D01)]() [![Qt](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=F46D01)]() [![GTest](https://img.shields.io/badge/GTest-000000?style=for-the-badge&logo=mvs&logoColor=F46D01)]() [![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=makefile&logoColor=F46D01)]() |
 | [![Matrix_Library](https://img.shields.io/badge/Matrix_Library-000000?style=for-the-badge&logo=Matrix_Library_C++&logoColor=F46D01)](https://github.com/AjzSAhmetzyanov/Matrix_C-) | Implementation matrix library for work with matrices and a GUI based on a GUI library with API for C++17: Qt.|[![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=F46D01)]() [![Qt](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=F46D01)]() [![GTest](https://img.shields.io/badge/GTest-000000?style=for-the-badge&logo=mvs&logoColor=F46D01)]() [![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=makefile&logoColor=F46D01)]() |
