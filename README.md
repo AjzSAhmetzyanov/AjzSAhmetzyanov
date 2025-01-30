@@ -2,7 +2,7 @@ ___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F46800.svg&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 ___
 - 👋 Hi there, I'm Ayzat Akhmetzyanov
-- 👀 I hold a Bachelor's degree from Kazan Federal University, where I majored in Artificial Intelligence and Robotics. Currently, I am pursuing a Master's degree while also studying at 21 School (Sberbank) in the Kazan campus.
+- 👀 I hold a Bachelor's degree from Kazan Federal University, where I majored in Artificial Intelligence and Robotics, also graduated from 21 School in the Kazan campus.
 - 👀 I am actively engaged in Machine Learning, with a focus on Computer Vision (CV) and Natural Language Processing (NLP). I am proficient in programming languages such as Python, C/C++, and JavaScript and have a strong interest in backend/frontend development as well as data science.
 - 📫 How to reach me: You can send me a message in telegram.
 ___
